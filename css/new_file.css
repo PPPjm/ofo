@@ -1,0 +1,108 @@
+*{
+	margin: 0;padding: 0;
+}
+body{
+	font:16px/1.8 "微软雅黑";
+}
+.section{
+	position: relative;
+	overflow: hidden;
+}
+/*1*/
+.section1{
+	background: url(../img/ofo/1.jpg) no-repeat center;background-size: 100% 100%;
+}
+.section1 h2{
+	color:yellow;font-weight: bold;text-align: center;margin-top: 5%;
+}
+/*2*/
+.section2{
+	background: url(../img/ofo/2.jpg) no-repeat center;background-size: 100% 100%;
+}
+.section2 h1{
+	font-weight: bold;color: black;margin-left:1500px;margin: 20px auto;
+}
+.section2 h3{
+	color: black;margin-left: 1500px;margin: 20px auto;
+}
+.section2 p{
+	color: black;margin-left:-1500px;font-size: 16px;font-weight: bold;
+}
+/*3*/
+.section3{
+	background: url(../img/ofo/3.gif) no-repeat center;/*background-size: 100% 100%;*/
+}
+/*.section3 .s3-one{
+	font-weight:bold;color:black;font-size:25px;margin-top: -1500px;left: 5%;position: absolute;
+}
+.section3 .s3-two{
+	font-weight:bold;color:black;font-size: 25px;margin-top: 1500px;left: 17%;position: absolute;
+}*/
+.section3 .s3-img1{
+	display: block;height: 500px;width: 500px;margin-left:1500px;position: absolute;
+}
+.section3 .s3-img2{
+	display: block;height:700px;width: 249px;margin-top: 1500px;position: absolute;margin-left: 0;
+}
+
+/*4*/
+.section4{
+	background: url(../img/ofo/4.jpg) no-repeat  center;background-size: 100% 100%;
+}
+.section4 p{
+	font-weight:bold;font-size: 25px;font-family: "楷体";color: black;
+}
+.section4 .s4-one{
+	display: block;position: absolute;margin-left: 70px;margin-top: 60px;
+}
+.section4 .s4-two{
+	display: block;position: absolute;margin-left: 70px;margin-top: 120px;
+}
+.section4 img{
+	margin-left:66%;margin-top: -1500px;display: block;width:350px;height: 320px;position: absolute;
+}
+/*5*/
+.section5{
+	background: url(../img/ofo/5.jpg) no-repeat center;
+}
+.section5 h3{
+	color: black;display: block;position: absolute;margin-left: 20px;margin-top: 5px;
+}
+.section5 p{
+	color: black;display: block;position: absolute;margin-left: 957px;margin-top: 10px;
+}
+/*6*/
+.section6{
+	background: url(../img/ofo/6.gif) no-repeat center;
+}
+/*7*/
+.section7{
+	background: url(../img/ofo/7.jpg) no-repeat center -155px;
+}
+.section7 .s7-img{
+	background: url(../img/ofo/11.gif);height: 365px;width: 560px;margin-left: 1500px;margin-top: 190px;
+	
+}
+.section7 h4{
+	text-align: center;margin-top: 50px;letter-spacing: 5px;
+}
+.section7 p{
+	text-align: center;letter-spacing: 5px;
+}
+.section7 .s7-one{
+	margin-top: 30px;
+}
+.section7 .s7-two{
+	margin-top: 10px;
+}
+/*8*/
+.section8{
+	background: url(../img/ofo/12.gif) no-repeat 0 -100px;
+}
+/*9*/
+.section9{
+	background: url(../img/ofo/pjm.png) no-repeat center bottom;background-size: 100% auto;
+}
+.section9 img{
+	position: absolute;display:block;width: 134px;height: 167px;margin-left: 550px;margin-top: -1500px;
+}
